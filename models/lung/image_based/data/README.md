@@ -10,8 +10,6 @@ at least six older collections.
 
 | | |
 |---|---|
-| Copy used here | Google Drive folder [**Chest Xray**](https://drive.google.com/drive/folders/16-xnF2kkFHDjFObZEXpDXa0mAJp3zXtf) (`My Drive/AI Projects/Lung Disease/Chest Xray`), uploaded 2026-06-21. The files are dated 2025-07-29, when the compilation was downloaded. The notebook reads it from Drive on Colab. |
-| Also in that folder | `Lung Xray.ipynb` (the Colab original of `notebooks/Lung_Xray.ipynb`) and the seven `*.keras` checkpoints that belong in `../models/` |
 | Covid-19, Emphysema, Normal, Pneumonia-Bacterial, Pneumonia-Viral | Kaggle [`minhnhat232/dataset-covid-bacterial-viral-normal-emphysema`](https://www.kaggle.com/datasets/minhnhat232/dataset-covid-bacterial-viral-normal-emphysema), *Dataset (Covid-Bacterial-Viral-Normal-Emphysema)*, Nguyễn Minh Nhật, 2024, CC0 |
 | Tuberculosis | Kaggle [`tawsifurrahman/tuberculosis-tb-chest-xray-dataset`](https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset), *Tuberculosis (TB) Chest X-ray Database*, Rahman et al., Qatar University / University of Dhaka. Licence: "Data files © Original Authors". Credit is required. |
 | Labels | One label per image, taken from its folder. There is no patient ID, age, sex or view (PA/AP) metadata. |
