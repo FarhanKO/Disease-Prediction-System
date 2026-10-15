@@ -6,7 +6,7 @@ Tumor**.
 The trained weights (~1 GB) are too large for GitHub, so they are hosted on
 the Hugging Face Hub:
 
-**[`FarhanKO/kidney-ct-classifier`](https://huggingface.co/FarhanKO/kidney-ct-classifier)**
+**[`FarhanKO/kidney-ct-classifier`](https://huggingface.co/FarhanKO/kidney-disease-prediction)**
 
 These models are the image half of the kidney module in
 [Disease-Risk-Prediction](https://github.com/FarhanKO/Disease-Risk-Prediction)
