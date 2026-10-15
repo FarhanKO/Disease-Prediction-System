@@ -1,0 +1,5 @@
+keras>=3.8
+torch>=2.5
+numpy
+pillow
+huggingface_hub
