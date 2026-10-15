@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Trained checkpoints (~700 MB, over GitHub's 100 MB limit) — see README
+*.keras
+*.h5
+
+# Dataset images (~18k files, on Google Drive) - see data/README.md; the README stays in git
+data/*
+!data/README.md
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
